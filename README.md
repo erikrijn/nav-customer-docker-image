@@ -11,7 +11,7 @@ This GitHub repository provides a Dockerfile and a PowerShell script to create a
 
 ## Issues
 
-For any issues, please file under this GitHub project on the [Issues section](https://github.com/Microsoft/nav-docker/issues).
+For any issues, please file under this GitHub project on the [Issues section](https://github.com/twityde/nav-customer-docker-image/issues).
 
 ## Troubleshooting & Frequently Asked Questions
 
